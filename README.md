@@ -15,4 +15,4 @@ It simply makes sense that my Resume should exist [in a format like this](ABOUTM
 ***
 If you need an experienced, skilled and highly-creative developer (one who regularly thinks out-of-the-box, like this) don't hesitate to [contact me](mailt:parkin_thom@hotmail.com).
 
-For the more traditional (that is 'old fashioned'.  I am talking to __you__ recruiter) way to review my skills and work history, visit [ThomParkin.com](http://www.thomparkin.com).
+For the more traditional (that is 'old fashioned'.  I am talking to __you__ recruiter) way to review my skills and work history, visit [ThomParkin.com](http://thomparkin.com).
