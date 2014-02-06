@@ -15,7 +15,9 @@ Lady Lake, Florida
 ### Passionate Developer with 30+ Years Technical Experience:
 
 > I begin everyday by visiting Github and still get a thrill when I see that one of my Pull Requests was merged into `master` on an Open Source project I love
+>
 > I have a great skill in devising solutions to situations that most people have not [yet] recognized as problems
+>
 > I posesess an innate talent for spotting Spelling and Grammar mistakes in a document - almost intuitively
 
  * Hands-on programmer, skilled in a wide range of programming languages. Passionate about Technology, thrives on challenge, and excels in a fast-paced environment.
