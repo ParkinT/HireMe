@@ -30,4 +30,4 @@ If you need an experienced, skilled and highly-creative developer (one who regul
 
 ***
 
-For the more traditional (i.e. old fashioned) way to review my skills and work history - the way _recruiters_ still do it - visit [ThomParkin.com](http://thomparkin.com).
+For the more traditional (i.e. old fashioned) way to review my skills and work history - the way _recruiters_ still do it - visit [ThomParkin.com](http://thomparkin.com) and [download a resume](https://github.com/ParkinT/HireMe/blob/gh-pages/downloads/ThomParkin_resume.pdf?raw=true).
