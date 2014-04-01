@@ -56,14 +56,14 @@ Languages:
 
 ---
 
-## Professional Experience:
+## [Professional Experience](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md):
 ####__ACTIVE DoD CLEARANCE__
 
 ##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................2005
 ###### JMPS Developer Training
-SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
+[SEIC](https://github.com/ParkinT/HireMe/blob/Experience/SAIC_DetailedExperience.md) - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
 
-_DoD Secret Clearance_
+<span style="color:#808080;">_DoD Secret Clearance_</span>
 
 Hired as a Web-based Tools Developer, Thom’s special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
 The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
@@ -76,7 +76,7 @@ The success of the program led to the creation of series of curricula for Foreig
 ##### [SAIC](http://www.saic.com/)......................................................................................................2005
 ###### [JMPS](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) Software Test Engineer
 
-SEIC - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
+[SEIC](https://github.com/ParkinT/HireMe/blob/Experience/SAIC_DetailedExperience.md) - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
 
 As one of the small team of Integration Test Engineers, Thom’s special skills are employed to develop and create specialized software tools that aid in the Integration and Verification Testing process.
 
