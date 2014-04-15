@@ -8,6 +8,8 @@ I am a software developer.
  * I love writing code
  * I __live for__ opportunities to write code that solves problems
 
+I have experience teaching technology, am comfortable presenting to a large group of people, have proven skills as a technical writer and I am willing to travel worldwide.
+
 ### Details
 
  - [Expertise](https://github.com/ParkinT/HireMe/blob/Skills/EXPERTISE.md)
