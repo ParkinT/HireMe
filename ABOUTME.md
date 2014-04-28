@@ -27,24 +27,26 @@ Lady Lake, Florida
  * Demonstrated Leadership Capability: Proven ability to manage projects for multimillion-dollar international customer accounts. Leads effective, motivated, and efficient project teams, by example with utmost personal integrity.
  * Strong Work Ethic: Self-motivated and dedicated. Able to work independently or in a collaborative team environment. Rapidly assimilates new technologies to implement customized, effective, state-of-the-art solutions.
 
-Languages:
+Languages/Technologies:
 
- * C#
  * Ruby [on Rails]
+   * SASS
+   * Heroku
+   * RubyMotion
+     * Objective-C
+ * PHP
+ * Perl
+ * SQL
+ * Markdown {obviously}
  * HTML
  * JavaScript
  * CSS
- * PHP
  * XML
- * Markdown
- * Perl
- * SQL
- * Objective-C
- * RubyMotion
 
 #### Technical Accomplishments:
 
   * Regular contributor on [RubySource](http://www.sitepoint.com/author/tparkin/)
+  * [Nitrous.IO Intro video](https://learnable.com/hub/play/47) on [Learnable](https://learnable.com)
   * [Git Fundamentals](https://learnable.com/books/git-fundamentals) on [Learnable](https://learnable.com)
   * [Get started with RegEx](https://learnable.com/jumpcasts/get-started-with-regex-67/video) on [Learnable](https://learnable.com)
   * Active contributor to Open Source Software on [Github](https://github.com/ParkinT)
