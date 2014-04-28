@@ -3,11 +3,11 @@ An insatiable "Hacker" spirit drives me to incessantly explore, study, dissect a
 
 ### Technology Specialist and ParaHacker, possessing a rare combination of:
 
-  * Strong Technical Understanding
+  * Deep Technical Understanding
   * Effective Problem Analysis Capabilities
   * Outstanding Problem-Solving Expertise
   * Exemplary Communications Skills
-  * Dynamic Presentation and “people” Skills
+  * Strong Presentation and “people” Skills
 
 ### Passionate Developer with 30+ Years Technical Experience:
 
@@ -18,18 +18,19 @@ An insatiable "Hacker" spirit drives me to incessantly explore, study, dissect a
  * Demonstrated Leadership Capability: Proven ability to manage projects for multimillion-dollar international customer accounts. Leads effective, motivated, and efficient project teams, by example with utmost personal integrity.
  * Strong Work Ethic: Self-motivated and dedicated. Able to work independently or in a collaborative team environment. Rapidly assimilates new technologies to implement customized, effective, state-of-the-art solutions.
 
-Languages:
+Languages/Technologies:
 
- * C#
  * Ruby [on Rails]
+   * SASS
+   * Heroku
+   * RubyMotion
+     * Objective-C
+ * PHP
+ * Perl
+ * SQL
+ * Markdown {obviously}
  * HTML
  * JavaScript
  * CSS
- * PHP
  * XML
- * Markdown
- * Perl
- * SQL
- * Objective-C
- * RubyMotion
 
