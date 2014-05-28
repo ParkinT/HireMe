@@ -4,6 +4,8 @@
 
   * [Ruby Motion: Creating iOS apps in Ruby](http://www.meetup.com/Orlando-Ruby/events/97497992/)
   * [Developing Rails with your head in the clouds](http://www.meetup.com/Orlando-Ruby/events/117192572/)
+  * [Nitrous.IO in The Developer's Toolbox](https://learnable.com/hub/play/47) on [Learnable](https://learnable.com)
+  * [Beginner's Git](https://learnable.com/hub/play/60) on [Learnable](https://learnable.com)
   * Regular contributor on [RubySource](http://www.sitepoint.com/author/tparkin/)
   * [Git Fundamentals](https://learnable.com/books/git-fundamentals) on [Learnable](https://learnable.com) <sup>[Listed in GoodReads](http://www.goodreads.com/author/show/7730347.Thom_Parkin)</sup>
   * [Get started with RegEx](https://learnable.com/jumpcasts/get-started-with-regex-67/video) on [Learnable](https://learnable.com)
