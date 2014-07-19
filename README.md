@@ -1,5 +1,4 @@
-# TIME FOR CHANGE
-
+[![c0de-life](http://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1649/large/1405604792/code-life.png "c0de-life")](http://www.stickermule.com/marketplace/1649-code-life)
 
 ## tl;dr
 I am a software developer.  
