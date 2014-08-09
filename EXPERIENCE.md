@@ -7,7 +7,7 @@ SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy201
 
 _DoD Secret Clearance_
 
-Hired as a Web-based Tools Developer, Thom’s special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
+Hired as a Web-based Tools Developer, my special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
 The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
 
   * Development of Curricula using structured practices (CLO, TLO, TO)
@@ -20,7 +20,7 @@ The success of the program led to the creation of series of curricula for Foreig
 
 SEIC - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
 
-As one of the small team of Integration Test Engineers, Thom’s special skills are employed to develop and create specialized software tools that aid in the Integration and Verification Testing process.
+As one of the small team of Integration Test Engineers, my special skills are employed to develop and create specialized software tools that aid in the Integration and Verification Testing process.
 
 Activities include:
 
@@ -33,7 +33,7 @@ Activities include:
 ##### [APPLIED VOICE AND SPEECH TECHNOLOGY, INC.](http://www.avst.com/) .........................2005
 ###### Technical Trainer CallXpress Product (as a Subcontractor)
 
-Traveling throughout the United States, Thom provided on-site training to telephony technicians on the [AVST](http://www.avst.com/) CallXpress Voice Processing Server Platform.
+Traveling throughout the United States, I provided on-site training to telephony technicians on the [AVST](http://www.avst.com/) CallXpress Voice Processing Server Platform.
 
 This required:
 
