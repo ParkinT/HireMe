@@ -27,7 +27,7 @@ It simply makes sense that my Resume should exist [in a format like this](ABOUTM
 
 If you need an experienced, skilled and highly-creative developer (one who regularly thinks out-of-the-box; but hesitates to use an overworked cliche like 'out-of-the-box') don't hesitate to submit a [Pull Request](https://github.com/ParkinT/HireMe/pulls) [![Hack ParkinT/HireMe on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-7475db0cf93fe5d1e29420c928ebc614.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=ParkinT%2FHireMe&file_to_open=README.md) to this repository.
 
->If you prefer to keep one foot in _the 20th century_ you can also send me an [email message](mailt:parkin_thom@hotmail.com).
+>If you prefer to keep one foot in _the 20th century_ you can also send me an [email message](mailto:parkin_thom@hotmail.com).
 
 ***
 
