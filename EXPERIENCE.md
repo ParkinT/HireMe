@@ -1,21 +1,9 @@
 ## Professional Experience:
 ####__ACTIVE DoD CLEARANCE__
 
+
 ##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................Present
-###### JMPS Developer Training
-SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
 
-_DoD Secret Clearance_
-
-Hired as a Web-based Tools Developer, my special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
-The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
-
-  * Development of Curricula using structured practices (CLO, TLO, TO)
-  * Design and Build ALL training materials to include Slide-Presentations, Handouts supporting documentation (physical and electronic)
-  * Develop and construct “hands-on” labs (C# in .NET)
-  * Deliver JMPS Developer Training to FMS clients and US clients as needed
-  
-##### [SAIC](http://www.saic.com/)......................................................................................................2005
 ###### [JMPS](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) Software Test Engineer
 
 SEIC - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
@@ -30,6 +18,21 @@ Activities include:
   * Migration to .NET Framework
   * Manual Software Testing in DoD Classified environment
 
+##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................Present
+
+###### JMPS Developer Training
+SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
+
+__DoD Secret Clearance__
+
+Hired as a Web-based Tools Developer, my special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
+The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
+
+  * Development of Curricula using structured practices (CLO, TLO, TO)
+  * Design and Build ALL training materials to include Slide-Presentations, Handouts supporting documentation (physical and electronic)
+  * Develop and construct “hands-on” labs (C# in .NET)
+  * Deliver JMPS Developer Training to FMS clients and US clients as needed
+ 
 ##### [APPLIED VOICE AND SPEECH TECHNOLOGY, INC.](http://www.avst.com/) .........................2005
 ###### Technical Trainer CallXpress Product (as a Subcontractor)
 
