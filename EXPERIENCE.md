@@ -1,7 +1,7 @@
 ## Professional Experience:
 ####__ACTIVE DoD CLEARANCE__
 
-##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................2005
+##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................Present
 ###### JMPS Developer Training
 SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
 
