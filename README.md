@@ -1,5 +1,3 @@
-[![c0de-life](http://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1649/large/1405604792/code-life.png "c0de-life")](http://www.stickermule.com/marketplace/1649-code-life)
-
 ## tl;dr
 I am a software developer.  
 
@@ -30,5 +28,8 @@ If you need an experienced, skilled and highly-creative developer (one who regul
 >If you prefer to keep one foot in _the 20th century_ you can also send me an [email message](mailto:parkin_thom@hotmail.com).
 
 ***
+
+[![Dilbert 23-Sept-2014](http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/200000/20000/9000/500/229532/229532.strip.gif "c0de-life")](http://www.stickermule.com/marketplace/1649-code-life)
+
 
 For the more traditional (i.e. old fashioned) way to review my skills and work history - the way _recruiters_ still do it - visit [ThomParkin.com](http://thomparkin.com) and [download a resume](https://github.com/ParkinT/HireMe/blob/gh-pages/downloads/ThomParkin_resume.pdf?raw=true).
