@@ -20,17 +20,21 @@ An insatiable "Hacker" spirit drives me to incessantly explore, study, dissect a
 
 Languages/Technologies:
 
+ * Docker trained
  * Ruby [on Rails]
-   * SASS
+   * Capistrano
    * Heroku
+   * SASS
    * RubyMotion
      * Objective-C
+ * Git
+ * Markdown {obviously}
+ * PostgreSQL, MySQL
+ * HTML, Javascript, CSS
+ * Dart
+ * Go
+ * Unity3D
  * PHP
  * Perl
- * SQL
- * Markdown {obviously}
- * HTML
- * JavaScript
- * CSS
- * XML
+
 
