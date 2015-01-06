@@ -1,7 +1,8 @@
 #### Technical Accomplishments:
 
-##### Technical Writing and Presentations
+##### Technical Writing and Screencasts
 
+  * [Mastering Git](http://goo.gl/iC43kt) 130 minute Video Tutorial for [Packt Publishing](https://www.packtpub.com/)
   * [Ruby Motion: Creating iOS apps in Ruby](http://www.meetup.com/Orlando-Ruby/events/97497992/)
   * [Developing Rails with your head in the clouds](http://www.meetup.com/Orlando-Ruby/events/117192572/)
   * [Nitrous.IO in The Developer's Toolbox](https://learnable.com/hub/play/47) on [Learnable](https://learnable.com)
