@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "https://avatars1.githubusercontent.com/u/12994?v=3&s=460"
+name: "Thom Parkin"
+copy: "Serial Rails Developer and <a href='http://parahacker.com' target='_blank'>ParaHacker</a>, Author of <a href='http://rubysource.com/author/tparkin/' target='_blank'>Technical articles</a> for <a href='https://learnable.com/courses/developer-s-toolbox-2868#contents' target='_blank'>Learnable</a> and <a href='http://goo.gl/iC43kt' target='_blank'>'Mastering Git'</a> for Packt Publishing."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default

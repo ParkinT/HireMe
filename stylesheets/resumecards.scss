@@ -1,0 +1,581 @@
+---
+---
+
+/*———————————–———————————–
+  Base Settings
+———————————–———————————–*/
+
+$container-large-desktop: 970px;
+
+$font-family-base: "Muli", sans-serif;
+$headings-font-family: "Quando", sans-serif;
+$headings-font-weight: 400;
+
+$font-size-base: 14px;
+$font-size-h1: floor(($font-size-base * 2.5));
+$font-size-h2: floor(($font-size-base * 1.6));
+$font-size-h3: floor(($font-size-base * 1));
+$font-size-h4: floor(($font-size-base * 1.2));
+$font-size-h5: floor(($font-size-base * 1));
+$font-size-h6: floor(($font-size-base * 1));
+$blockquote-font-size: floor(($font-size-base * 1.25));
+$line-height-base: 1.5;
+$headings-line-height: 1.3;
+$grid-gutter-width: 20px;
+
+/*———————————–———————————–
+  Theme Colors
+———————————–———————————–*/
+
+$default-base: #6F7C8A;
+$red-base: #C46767;
+$pink-base: #D95D87;
+$blue-base: #59A2DD;
+$purple-base: #8064A7;
+$brown-base: #785447;
+$teal-base: #54C2B8;
+$green-base: #6BAB6E;
+
+$all-colors: ("default": ("base": $default-base,
+                          "sub": lighten($default-base, 10%),
+                          "text": darken($default-base, 50%),
+                          "muted": grayscale($default-base),
+                          "bg": lighten($default-base, 45%),
+                          "heading": lighten($default-base, 40%)),
+              "red": ("base": $red-base,
+                      "sub": lighten($red-base, 20%),
+                      "text": darken($red-base, 50%),
+                      "muted": grayscale($red-base),
+                      "bg": lighten($red-base, 40%),
+                      "heading": lighten($red-base, 30%)),
+              "pink": ("base": $pink-base,
+                       "sub": lighten($pink-base, 20%),
+                       "text": darken($pink-base, 50%),
+                       "muted": grayscale($pink-base),
+                       "bg": lighten($pink-base, 38%),
+                       "heading": lighten($pink-base, 30%)),
+              "brown": ("base": $brown-base,
+                       "sub": lighten($brown-base, 10%),
+                       "text": darken($brown-base, 50%),
+                       "muted": grayscale($brown-base),
+                       "bg": lighten($brown-base, 50%),
+                       "heading": lighten($brown-base, 40%)),
+              "blue": ("base": $blue-base,
+                       "sub": lighten($blue-base, 10%),
+                       "text": darken($blue-base, 50%),
+                       "muted": grayscale($blue-base),
+                       "bg": lighten($blue-base, 35%),
+                       "heading": lighten($blue-base, 25%)),
+              "purple": ("base": $purple-base,
+                          "sub": lighten($purple-base, 20%),
+                          "text": darken($purple-base, 50%),
+                          "muted": grayscale($purple-base),
+                          "bg": lighten($purple-base, 40%),
+                          "heading": lighten($purple-base, 30%)),
+              "teal":  ("base": $teal-base,
+                        "sub": lighten($teal-base, 10%),
+                        "text": darken($teal-base, 50%),
+                        "muted": grayscale($teal-base),
+                        "bg": lighten($teal-base, 40%),
+                        "heading": lighten($teal-base, 30%)),
+              "green": ("base": $green-base,
+                        "sub": lighten($green-base, 10%),
+                        "text": darken($green-base, 50%),
+                        "muted": grayscale($green-base),
+                        "bg": lighten($green-base, 40%),
+                        "heading": lighten($green-base, 30%)));
+
+$theme-color: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "base");
+$theme-sub: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "sub");
+$theme-text: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "text");
+$theme-muted: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "muted");
+$theme-bg: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "bg");
+$theme-heading: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "heading");
+
+$color-base: $theme-color;
+$color-sub: $theme-sub;
+$color-text: $theme-text;
+$color-muted: $theme-muted;
+$color-bg: $theme-bg;
+$color-heading: $theme-heading;
+
+$color-list: "default", "red", "pink", "brown", "blue", "purple", "teal", "green";
+
+@import "bootstrap-sass/bootstrap";
+
+/*———————————–———————————–
+  Overwrite Bootstrap
+———————————–———————————–*/
+
+body {
+  background-color: $color-bg;
+  color: $color-text;
+
+  @each $color-name in $color-list {
+    &.theme-#{$color-name} {
+      background-color: map-get(map-get($all-colors, $color-name), "bg");
+      color: map-get(map-get($all-colors, $color-name), "text");
+    }
+  }
+}
+
+header,
+footer {
+  font-size: 15px;
+  ul {
+    margin-top: 20px;
+    > li + li {
+      margin-top: 20px;
+    }
+  }
+}
+
+header {
+  padding: 20px 0 30px;
+}
+
+footer {
+  padding: 20px 0 60px
+}
+
+h1, h2, h3, h4, h5, h6, .panel-title, .resume-contact {
+  color: $color-base;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "base");
+    }
+  }
+}
+
+h1 {
+  margin-top: 0;
+}
+
+h4 {
+  margin: 0 0 5px 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+pre {
+  margin: 20px 0;
+}
+
+a {
+  color: $color-base;
+  &:hover {
+    color: $color-sub;
+  }
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "base");
+      &:hover {
+        color: map-get(map-get($all-colors, $color-name), "sub");
+      }
+    }
+  }
+}
+
+.panel {
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.panel-default {
+  border: none;
+}
+
+.panel-default > .panel-heading {
+  background-color: $color-heading;
+  border: none;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      background-color: map-get(map-get($all-colors, $color-name), "heading");
+    }
+  }
+}
+
+.panel-heading {
+  height: 35px;
+  overflow: hidden;
+}
+
+.panel-title {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.panel-body {
+  height: 280px;
+  overflow: hidden;
+}
+
+.navbar-default {
+  background-color: #FFF;
+}
+
+.navbar {
+  margin-bottom: 40px;
+}
+
+.navbar-brand {
+  font-size: 25px;
+}
+
+.navbar-nav {
+  font-size: 14px;
+}
+
+.btn {
+  font-size: 14px;
+}
+
+.btn-primary {
+  @include button-variant(#fff, $color-base, darken($color-base, 10%));
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      @include button-variant(#fff, map-get(map-get($all-colors, $color-name), "base"),
+      darken(map-get(map-get($all-colors, $color-name), "base"), 10%));
+    }
+  }
+}
+
+.affix {
+  top: 0;
+}
+
+.modal-body,
+.modal-footer {
+  text-align: center;
+  color: $color-base;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "base");
+    }
+  }
+
+  img {
+    border: 1px solid $color-sub;
+
+    @each $color-name in $color-list {
+      .theme-#{$color-name} & {
+        border-color: map-get(map-get($all-colors, $color-name), "sub");
+      }
+    }
+
+    + p {
+      margin-top: 20px;
+    }
+  }
+}
+
+/*———————————–———————————–
+  Styles
+———————————–———————————–*/
+
+.resume-top,
+.resume-bottom {
+  background-color: #fff;
+}
+
+.resume-top {
+  border-top: 7px solid $color-base;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      border-color: map-get(map-get($all-colors, $color-name), "base");
+    }
+  }
+}
+
+.resume-intro {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.resume-intro-title {
+  display: block;
+  font-size: 40px;
+  color: $color-base;
+  font-family: "Quando", sans-serif;
+  + p {
+    margin-top: 30px;
+  }
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "base");
+    }
+  }
+}
+
+.resume-intro-lead {
+  font-size: 18px;
+}
+
+.resume-intro-download {
+  margin-top: 30px;
+}
+
+.resume-intro-btns {
+  margin-top: 20px;
+}
+
+.resume-point,
+.resume-howitworks,
+.resume-story,
+.resume-author,
+.resume-thanks {
+  margin-top: 30px;
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+
+.resume-howitworks {
+  ul {
+    margin-bottom: 40px;
+  }
+  img {
+    margin-top: 10px;
+  }
+}
+
+.resume-howitworks-btn {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.resume-author {
+  text-align: center;
+  p:last-child {
+    margin-top: 30px;
+  }
+}
+
+.resume-author-learnmore {
+  margin-top: 30px;
+}
+
+.resume-thanks {
+  p + p {
+    margin-top: 20px;
+  }
+}
+
+.resume-view-pdf {
+  margin-top:  10px;
+  margin-bottom:  20px;
+  text-align: center;
+}
+
+.resume-dropdown {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.resume-nav {
+  padding-top: 7px;
+  color: #999;
+  text-align: center;
+  > span + button {
+    margin-left: 10px;
+  }
+}
+
+.resume-content {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.resume-header {
+  padding-bottom: 20px;
+}
+
+.resume-copy {
+  color: $color-base;
+  font-family: "Quando", sans-serif;
+  font-size: 13px;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "base");
+    }
+  }
+}
+
+.resume-pic {
+  float: left;
+  img {
+    border: 1px solid $color-sub;
+  }
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      img {
+        border: 1px solid map-get(map-get($all-colors, $color-name), "sub");
+      }
+    }
+  }
+}
+
+.resume-pic + .resume-baseinfo {
+  margin-left: 140px;
+}
+
+.resume-contact {
+  font-family: "Quando", sans-serif;
+  font-size: 13px;
+  word-wrap: break-word;
+  p {
+    margin-bottom: 5px;
+  }
+}
+
+.resume-subheading {
+  color: $color-sub;
+  font-family: "Quando", sans-serif;
+  font-size: 14px;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "sub");
+    }
+  }
+}
+
+.resume-duration {
+  margin-bottom: 0;
+}
+
+.resume-duration,
+.resume-location {
+  color: $color-muted;
+  line-height: 1.4;
+
+  @each $color-name in $color-list {
+    .theme-#{$color-name} & {
+      color: map-get(map-get($all-colors, $color-name), "muted");
+    }
+  }
+}
+
+@media (max-width: $screen-sm-max) and (min-width: $screen-sm-min) {
+  .panel-body {
+    height: 320px;
+  }
+}
+
+@media (max-width: $screen-xs-max) {
+  .panel-body {
+    height: auto;
+  }
+  .resume-content {
+    padding-top: 40px;
+  }
+  .resume-pic {
+    float: none;
+    margin-bottom: 10px;
+  }
+  .resume-pic + .resume-baseinfo {
+    margin-left: 0;
+  }
+  .resume-point {
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+}
+
+@media print {
+  @include make-grid(sm);
+
+  @page {
+    size: US-Letter;
+  }
+
+  body {
+    background-color: transparent !important;
+    border: none;
+    font-size: 10px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  h4 {
+    margin-bottom: 3px;
+    font-size: 10px;
+    + p {
+      margin-bottom: 5px;
+    }
+  }
+
+  ul {
+    padding-left: 15px;
+  }
+
+  .panel {
+    box-shadow: none;
+    border: 1px solid rgba(0,0,0,.1);
+  }
+
+  .panel-heading {
+    height: 25px;
+    overflow: hidden;
+  }
+
+  .panel-body {
+    height: 210px;
+  }
+
+  .resume-header {
+    padding-bottom: 5px;
+  }
+
+  .resume-pic {
+    float: left;
+  }
+
+  .resume-pic + .resume-baseinfo {
+    margin-left: 120px;
+  }
+
+  .resume-pic img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .resume-copy {
+    font-size: 12px;
+  }
+
+  .resume-content {
+    padding-top: 10px;
+  }
+
+  .resume-subheading {
+    font-size: 10px;
+  }
+
+  .resume-duration,
+  .resume-location {
+    font-size: 9px;
+  }
+
+  .resume-contact {
+    font-size: 10px;
+  }
+
+}
