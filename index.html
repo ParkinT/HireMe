@@ -53,6 +53,7 @@
     {% endif %}
     <div class="container resume-content">
       <nav class="navbar navbar-default hidden-print hidden-xs" role="navigation">
+      {% if site.data.resume.demo %}
         <div class="resume-nav">
           <span>Built with <a href="https://github.com/ellekasai/resumecards" target="_blank">ResumeCards</a><span class="hidden-sm">, a Markdown based resume generator</span></span>.
           <div class="dropdown resume-dropdown">
@@ -86,6 +87,7 @@
             </div>
           </div>
         </div>
+      {% endif %}  
       </nav>
       <div class="row resume-header">
         <div class="col-sm-8 resume-profile clearfix">
