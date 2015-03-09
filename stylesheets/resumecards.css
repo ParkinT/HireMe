@@ -3163,6 +3163,9 @@ a {
   height: 280px;
   overflow: hidden; }
 
+.taller {
+  height: 345px;
+}
 .navbar-default {
   background-color: #FFF; }
 
