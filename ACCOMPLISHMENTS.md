@@ -16,7 +16,7 @@
   * Active contributor to Open Source Software on [Github](https://github.com/ParkinT)
   * Ranked as Top Coder on V-Worker (formerly Rent-A-Coder)
   * [BusinessSpew](bs.leveragedsynergies.com)
-  * [Formula 1 Top Ten](http://f1topten.com)
+  * [Formula 1 Top Ten](https://formula1topten.herokuapp.com)
   * [Sub-domain Farm](http://www.enderstore.com/)
 
 ##### Professional Network and Community Service
