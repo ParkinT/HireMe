@@ -9,7 +9,7 @@
   * [Beginner's Git](http://www.sitepoint.com/learnable-screencast-intro-to-git/) on [Learnable](https://learnable.com)
   * Regular contributor on [RubySource](http://www.sitepoint.com/author/tparkin/)
   * [Git Fundamentals](https://learnable.com/books/git-fundamentals) on [Learnable](https://learnable.com) <sup>[Listed in GoodReads](http://www.goodreads.com/author/show/7730347.Thom_Parkin)</sup>
-  * [Get started with RegEx](https://learnable.com/jumpcasts/get-started-with-regex-67/video) on [Learnable](https://learnable.com)
+  * [Experts Exchange: Regular Expressions](http://www.sitepoint.com/regular-expressions-gotta-love-em/) on [Sitepoint](https://sitepoint.com)
 
 ##### Development Projects
 
