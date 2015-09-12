@@ -1,5 +1,5 @@
 ---
-type: "Current Employment"
+type: "Previous Employment"
 heading: "<a href='http://leidos.com' target='_blank'>Leidos</a>, formerly SAIC"
 subheading: "Software Developer Training"
 ---
