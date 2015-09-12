@@ -8,7 +8,8 @@ location: ""
 
 "He is not a commodity; he is unique in his skill set, attitude, and demeanor." --<span style='font-size:80%'>[Lt. Col. William Scheppers](recommendations/WilliamScheppers.pdf), USAF</span>
 
-"Thom Parkin has been a change agent...catalyzing others to think out-of-the-box." --<span style='font-size:80%'>[Phil Thompson](recommendations/PhilThompson.tif)</span>
+
+"Thom has a keen ability to pull together a group of [software] engineers to collaborate on a complex problem." -<span style="font-size:80%;">[Shaun Scott](recommendations/ShaunScottEndorsement.pdf), Leidos</span>
 
 "...outstanding performance, flexible nature, technical competence, and strong work ethic..." --<span style='font-size:80%'>[Russ Sherrett](recommendations/RussSherrett.pdf)</span>
 
