@@ -2,7 +2,7 @@
 
 ##### [David C. Cook](https://www.DavidCCook.com/global) "...equipping the local church on a global scale."
 
-###### [Disciplr.com](https://disciplr.com) is a new initiative serving teachers and local churches by applying Internet technology i a direct and useful manner.
+###### [Disciplr.com](https://disciplr.com) is a new initiative serving teachers and local churches by applying Internet technology in a direct and useful manner.
 
 As a Senior Ruby Developer, Thom is primarily responsible for the back-end API that drives [Disciplr.com](http://www.Disciplr.com).
 Daily interaction with a team of Web Design and other developers supporting Agular.JS and Ruby on Rails API (back-end).
