@@ -9,7 +9,8 @@ location: ""
 "He is not a commodity; he is unique in his skill set, attitude, and demeanor." --<span style='font-size:80%'>[Lt. Col. William Scheppers](recommendations/WilliamScheppers.pdf), USAF</span>
 
 
-"Thom has a keen ability to pull together a group of [software] engineers to collaborate on a complex problem." -<span style="font-size:80%;">[Shaun Scott](recommendations/ShaunScottEndorsement.pdf), Leidos</span>
+" I was impressed by his dedication to his work and ability to look at things from outside
+the box" -<span style="font-size:80%;">[Shaun Scott](recommendations/ShaunScottEndorsement.pdf), Leidos</span>
 
 "...outstanding performance, flexible nature, technical competence, and strong work ethic..." --<span style='font-size:80%'>[Russ Sherrett](recommendations/RussSherrett.pdf)</span>
 
