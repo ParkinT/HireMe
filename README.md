@@ -1,11 +1,11 @@
 ## tl;dr
-I am a software developer.  
+I am a ~~software developer~~ [coder](http://wistful-thinking.com/i-do-not-write-software/).  
 
  * I like solving problems
  * I love writing code
  * I __live for__ opportunities to write code that solves problems
 
-I have experience teaching technology, am comfortable presenting to a large group of people, have proven skills as a technical writer and I am willing to travel worldwide.
+An insatiable ParaHacker, I have experience teaching technology, am comfortable presenting to a large group of people, have proven skills as a technical writer and I am willing to travel worldwide.
 
 ### Details
 
