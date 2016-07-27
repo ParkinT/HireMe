@@ -7,6 +7,13 @@
 As a Senior Ruby Developer, Thom is primarily responsible for the back-end API that drives [Disciplr.com](http://www.Disciplr.com).
 Daily interaction with a team of Web Design and other developers supporting Agular.JS and Ruby on Rails API (back-end).
 
+In its new iteration (Version 2), [Disciplr.com](http://www.Disciplr.com) is composed of a multitude of microservices built on the AWS Serverless platform.  This provides an opportunity to work in numerous new-and-interesting languages such as:
+  - ECMAScript
+  - TypeScript
+  - Node.js
+  - Python
+  - Go
+  - Ruby
 
 ##### [Leidos](http://www.leidos.com) .............................................................................2015
 
