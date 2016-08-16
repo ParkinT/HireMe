@@ -30,6 +30,9 @@ If you need an experienced, skilled and highly-creative developer (one who regul
 ***
 
 [<img src="https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/1649/large/1405604792/code-life.png" width="25%" />](http://www.stickermule.com/marketplace/1649-code-life)
+<br />
+<br />
+[<img src="https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/3930/large/1422493494/ruby-life.png" width="35%" />](https://www.stickermule.com/marketplace/3930-ruby-life)
 
 
 For the more traditional (i.e. old fashioned) way to review my skills and work history - the way _recruiters_ still do it - visit [ThomParkin.com](http://thomparkin.com) and [download a resume](https://github.com/ParkinT/HireMe/blob/gh-pages/downloads/ThomParkin_resume.pdf?raw=true).
