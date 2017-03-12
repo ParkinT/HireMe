@@ -29,10 +29,9 @@ Languages/Technologies:
      * Objective-C
  * Git
  * Markdown {obviously}
- * PostgreSQL, MySQL
+ * PostgreSQL, MongoDB
  * HTML, Javascript, CSS
- * Dart
- * Go
+ * Aurelia
  * Unity3D
  * PHP
  * Perl
