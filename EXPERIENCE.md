@@ -9,10 +9,9 @@ Daily interaction with a team of Web Design and other developers supporting Agul
 
 In its new iteration (Version 2), [Disciplr.com](http://www.Disciplr.com) is composed of a multitude of microservices built on the AWS Serverless platform.  This provides an opportunity to work in numerous new-and-interesting languages such as:
   - ECMAScript
-  - TypeScript
   - Node.js
-  - Python
-  - Go
+  - Aurelia
+  - MongoDB
   - Ruby
 
 ##### [Leidos](http://www.leidos.com) .............................................................................2015
