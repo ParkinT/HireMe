@@ -2,17 +2,17 @@
 
 ##### [David C. Cook](https://www.DavidCCook.com/global) "...equipping the local church on a global scale."
 
-###### [Disciplr.com](https://disciplr.com) is a new initiative serving teachers and local churches by applying Internet technology in a direct and useful manner.
+###### [Disciplr.com](https://disciplr.com) was a new initiative serving teachers and local churches by applying Internet technology in a direct and useful manner.
 
-As a Senior Ruby Developer, Thom is primarily responsible for the back-end API that drives [Disciplr.com](http://www.Disciplr.com).
-Daily interaction with a team of Web Design and other developers supporting Agular.JS and Ruby on Rails API (back-end).
+As a Senior Ruby Developer, Thom was primarily responsible for the back-end (Rails) API that drives [Disciplr.com](http://www.Disciplr.com).
+The **Next Generation** of [Disciplr](www.disciplr.com) is built on an entirely new technology stack consisting of:
 
-In its new iteration (Version 2), [Disciplr.com](http://www.Disciplr.com) is composed of a multitude of microservices built on the AWS Serverless platform.  This provides an opportunity to work in numerous new-and-interesting languages such as:
-  - ECMAScript
-  - Node.js
-  - Aurelia
-  - MongoDB
-  - Ruby
+ - ASP.NET in C#
+ - Azure
+ - PostgreSQL and DocumentDB
+ - Aurelia
+
+In addition to being the sole maintainer of the current Rails application, Thom is an active part of the growing development team on this next iteration of [Disciplr](www.disciplr.com); utilizing Agile Development Processes and the entire suite of Microsoft Visual Studio and Azure portal tools.
 
 ##### [Leidos](http://www.leidos.com) .............................................................................2015
 
@@ -32,7 +32,7 @@ SEIC - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/s
 
 As one of the small team of Integration Test Engineers, my special skills are employed to develop and create specialized software tools that aid in the Integration and Verification Testing process.
 
-Activities include:
+Activities included:
 
   * Data Analysis and UML modeling
   * Developing/Modifying/Creating Automated Unit Tests with HP Quick Test Pro
