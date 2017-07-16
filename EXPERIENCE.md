@@ -1,6 +1,20 @@
 ## Professional Experience:
 
-##### [David C. Cook](https://www.DavidCCook.com/global) "...equipping the local church on a global scale."
+##### [Leidos](http://www.leidos.com) .............................................................................Present
+
+###### [JMPS](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) Cyber Security Specialist
+
+__DoD TS Clearance__
+
+US Air Force [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
+  
+ - Compilation and Evaluation of Source Code from numerous vendors
+ - Execution of Static Code Analysis scans with HP Fortify
+ - Evaluation, Assessment and Detailed Security Reporting
+
+Backup role as a member of the JMPS Developer Training group delivering classes in JMPS Development on a regular schedule
+
+##### [David C. Cook](https://www.DavidCCook.com/global) "...equipping the local church on a global scale."......2017
 
 ###### [Disciplr.com](https://disciplr.com) was a new initiative serving teachers and local churches by applying Internet technology in a direct and useful manner.
 
@@ -45,7 +59,6 @@ Activities included:
 ###### JMPS Developer Training
 SEIC - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
 
-__DoD Secret Clearance__
 
 Hired as a Web-based Tools Developer, my special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
 The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
