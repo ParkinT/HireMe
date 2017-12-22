@@ -1,5 +1,8 @@
 #### Technical Accomplishments:
 
+##### Certifications
+  * CompTIA Security+
+
 ##### Technical Writing and Screencasts
 
   * [Mastering Git](http://goo.gl/iC43kt) 130 minute Video Tutorial for [Packt Publishing](https://www.packtpub.com/)
