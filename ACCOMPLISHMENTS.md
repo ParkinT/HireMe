@@ -1,7 +1,7 @@
 #### Technical Accomplishments:
 
 ##### Certifications
-  * CompTIA Security+
+  * CompTIA [Security+](https://github.com/ParkinT/HireMe/blob/Skills/CompTIA%20Security%2B%20Certificate.pdf)
   * Ethical Hacking and Penetration Testing
 
 ##### Technical Writing and Screencasts
