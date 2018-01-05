@@ -20,7 +20,7 @@ An insatiable "Hacker" spirit drives me to incessantly explore, study, dissect a
 
 Languages/Technologies:
 
- * Security+ Certified
+ * [Security+](https://github.com/ParkinT/HireMe/blob/Skills/CompTIA%20Security%2B%20Certificate.pdf) Certified
  * Docker trained
  * Ruby [on Rails]
    * Capistrano
