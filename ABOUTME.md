@@ -1,6 +1,6 @@
 # [Thom Parkin](mailto:parkin_thom@hotmail.com?subject=Github%20Resume)
 
-Lady Lake, Florida
+Sanford, Florida
 
 (407) 477-4328
 
@@ -12,13 +12,13 @@ Lady Lake, Florida
   * Exemplary Communications Skills
   * Dynamic Presentation and “people” Skills
 
-### Passionate Developer with 30+ Years Technical Experience:
+### Passionate Developer with over 40 Years of Technical Experience:
 
-> I begin everyday by visiting Github and still get a thrill when I see that one of my Pull Requests was merged into `master` on an Open Source project I love
+> I begin everyday by visiting GitHub and still get a thrill when I see that one of my Pull Requests was merged into `master` on an Open Source project I love
 >
 > I have a great skill in devising solutions to situations that most people have not [yet] recognized as problems
 >
-> I posesess an innate talent for spotting Spelling and Grammar mistakes in a document - almost intuitively
+> I possess an innate talent for spotting Spelling and Grammar mistakes in a document - almost intuitively
 
  * Hands-on programmer, skilled in a wide range of programming languages. Passionate about Technology, thrives on challenge, and excels in a fast-paced environment.
  * Proven Innovator: Applies creativity and critical thinking to solve seemingly insurmountable problems.
@@ -32,21 +32,20 @@ Languages/Technologies:
  * Ruby [on Rails]
    * SASS
    * Heroku
-   * RubyMotion
-     * Objective-C
- * PHP
- * Perl
- * SQL
- * Markdown {obviously}
+ * AWS
+ * Markdown
  * HTML
  * JavaScript
  * CSS
  * XML
+ * MongoDB
+ * SQL
 
 #### Technical Accomplishments:
 
+  * Achieved [CompTIA Security+ Certification](https://github.com/ParkinT/HireMe/blob/Skills/CompTIA%20Security%2B%20Certificate.pdf)
+  * Author [Mastering Git](https://www.packtpub.com/books/info/authors/thom-parkin) for Packt Publishing
   * Regular contributor on [RubySource](http://www.sitepoint.com/author/tparkin/)
-  * [Nitrous.IO Intro video](https://learnable.com/hub/play/47) on [Learnable](https://learnable.com)
   * [Git Fundamentals](https://learnable.com/books/git-fundamentals) on [Learnable](https://learnable.com)
   * [Get started with RegEx](https://learnable.com/jumpcasts/get-started-with-regex-67/video) on [Learnable](https://learnable.com)
   * Active contributor to Open Source Software on [Github](https://github.com/ParkinT)
@@ -54,18 +53,42 @@ Languages/Technologies:
   * [BusinessSpew](bs.leveragedsynergies.com)
   * Ranked as Top Coder on V-Worker (formerly Rent-A-Coder)
   * [ThomParkin.com](http://ThomParkin.com)
-  * Proudly serve as a ![Team Leader](http://www.sitepoint.com/forums/images/common/ranks/spf_teamLeader.png "Sitepoint Team Leader") on [Sitepoint](http://sitepoint.com/forums) forums
+  https://learnable.com/hub/play/47) on [Learnable](https://learnable.com)  
+  * Proudly served as a ![Team Leader](http://www.sitepoint.com/forums/images/common/ranks/spf_teamLeader.png "Sitepoint Team Leader") on [Sitepoint](http://sitepoint.com/forums) forums
+
+[![profile for Thom Parkin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Thom Parkin on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5038710.png)](https://stackexchange.com/users/5038710/thom-parkin)
 
 ---
 
 ## [Professional Experience](https://github.com/ParkinT/HireMe/blob/Experience/EXPERIENCE.md):
-####__ACTIVE DoD CLEARANCE__
+### __ACTIVE DoD CLEARANCE__
 
-##### [SAIC](http://www.saic.com/) (now [Leidos](http://www.leidos.com)) .............................................................................2005
+##### [Leidos](http://leidos.com)
+Cyber Security Specialist
+
+US Air Force - Joint Mission Planning
+
+Returned to the SEIC contract in a new role with a focus on Software Security and Resilience.
+* Compilation and Evaluation of Source Code from numerous vendors
+* Execution of Static Code Analysis scans with HP Fortify
+* Evaluation, Assessment and Detailed Security Reporting
+
+Backup role as part of the JMPS Developer Training
+
+##### [David C. Cook](https://davidccook.org) - [Disciplr](http://disciplr.com)........................................................................2015-2017
+Senior Rails Developer
+
+Thom is primarily responsible for the back-end API that drives this publication delivery platform.
+
+The 'second generation' of this application utilizes Microsoft Technology stack and is built on AZURE. As a result Thom is deeply involved in a new mixture of technologies: 
+* Ruby on Rails
+* .NET (C#)
+* DocumentDB
+* Aurellia
+
+##### [SAIC](http://www.saic.com/) (became [Leidos](http://www.leidos.com)) .............................................................................2005-2015
 ###### JMPS Developer Training
 [SEIC](https://github.com/ParkinT/HireMe/blob/Experience/SAIC_DetailedExperience.md) - [Joint Mission Planning System](http://www.dote.osd.mil/pub/reports/fy2012/pdf/af/2012mps-jmps-af.pdf) (US Air Force Contract) [CMMI](http://cmmiinstitute.com/) Level V Project
-
-<span style="color:#808080;">_DoD Secret Clearance_</span>
 
 Hired as a Web-based Tools Developer, Thom’s special people skills were recognized and applied to the Developer Support Team where he conducted classes for US-based software developers from DoD contractors working on the Joint Mission Planning System.
 The success of the program led to the creation of series of curricula for Foreign Military Sales (FMS) Specific activities include:
@@ -75,7 +98,7 @@ The success of the program led to the creation of series of curricula for Foreig
   * Develop and construct “hands-on” labs (C# in .NET)
   * Deliver JMPS Developer Training to FMS clients and US clients as needed
   
-##### [SAIC](http://www.saic.com/)......................................................................................................2005
+##### [SAIC](http://www.saic.com/)..........................................................................................................2005
 ###### [JMPS](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) Software Test Engineer
 
 [SEIC](https://github.com/ParkinT/HireMe/blob/Experience/SAIC_DetailedExperience.md) - [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
@@ -90,7 +113,7 @@ Activities include:
   * Migration to .NET Framework
   * Manual Software Testing in DoD Classified environment
 
-##### [APPLIED VOICE AND SPEECH TECHNOLOGY, INC.](http://www.avst.com/) .........................2005
+##### [APPLIED VOICE AND SPEECH TECHNOLOGY, INC.](http://www.avst.com/) ...........................2005
 ###### Technical Trainer CallXpress Product (as a Subcontractor)
 
 Traveling throughout the United States, Thom provided on-site training to telephony technicians on the [AVST](http://www.avst.com/) CallXpress Voice Processing Server Platform.
@@ -101,7 +124,7 @@ This required:
   * Five days of instruction, offering students ‘hands-on’ experience
   * A mixture of Projected Presentation and direct configuration and programming assistance
   
-##### [SAIC](http://www.saic.com/).....................................................................................................2003
+##### [SAIC](http://www.saic.com/)...........................................................................................................2003
 ###### IT & Systems Specialist
 
 Contract with NCS (National Communications System), a division of DHS (Department of Homeland Security)
@@ -112,7 +135,7 @@ With DoD Secret Clearance, provided high-level Technical Assistance functions fo
   * Assisted with enhancements to existing web portal(s)
   * Provided ‘process improvement’ on a daily basis
 
-##### [LUCENT TECHNOLOGIES](http://www.lucent.com).......................................................1998 – 2002
+##### [LUCENT TECHNOLOGIES](http://www.lucent.com).....................................................................1998 – 2002
 ###### Product Specialist (NMS/EMS) (2001 – 2002)
 ###### Senior Systems Engineer (1998 – 2001)
 
@@ -124,26 +147,29 @@ Traveled internationally to customer sites as the manufacturer’s representativ
   * Provided Technical Sales Support to the Emerging Service Provider market.
   * Developed several key software applications to assist Lucent sales teams. Played a crucial role in helping Lucent win customer contracts by creating specialized software applications to assist with configuring and maintaining products
 
-##### [INTELLIGENT SOLUTIONS](http://forisi.com/).......................................................1994 - 1998
+##### [INTELLIGENT SOLUTIONS](http://forisi.com/)...................................................................1994 - 1998
 ###### Telecommunications Specialist
 
 Managed and maintained multi-site Telecommunications (PBX) system for this specialized Software Development House whose primary clients were members of US Congress.
 
-##### [TELECOMMUNICATIONS CONCEPTS, INC](http://www.tci-voip.com/).............................1988 - 1994
+##### [TELECOMMUNICATIONS CONCEPTS, INC](http://www.tci-voip.com/)..........................................1988 - 1994
 
 With this small, young, family-owned, Telecommunications company I was among the first group of __Technical Account Managers__.  Responsible for direct client interaction and direction of the technical aspects of their telecommunications infrastructure.
 Located in Northern Virginia, my client-base included many US Government offices and Trade Organizations ([National Federation of Independent Businesses](http://www.nfib.com), [National Association of Realtors](http://www.realtor.org/), [National Association of Broadcasters](http://www.nab.org/about/contactUs.asp), [National Senatorial Republican Committee](http://www.nrsc.org/) to name a few)
 
-##### [SYMTECH](http://www.symtechsolutions.com/).................................................................................1984 - 1988
+##### [SYMTECH](http://www.symtechsolutions.com/)...............................................................................................1984 - 1988
 ###### Lead Service Technician
 
 Immediately following The Great Divestiture of the Bell System, I was the primary resource for "on the street" service and repair of PBX and Key telephone systems for a wide range of customers in the Northeast Philadelphia region.
 
 ### Training/Certifications
 
-Cigital Certified in Cyber Security & Methodology, Static Code Security Analysis, Dynamic Code Security Analysis
-[Whitehat Hacking and Penetration Testing](InfiniteSkills License 247071001381885231)
-TDD and BDD in Ruby
+ - [CompTIA Security+ Certification](https://github.com/ParkinT/HireMe/blob/Skills/CompTIA%20Security%2B%20Certificate.pdf)
+ - Cigital Certified in Cyber Security & Methodology
+  - Static Code Security Analysis
+  - Dynamic Code Security Analysis
+ - [Whitehat Hacking and Penetration Testing](InfiniteSkills License 247071001381885231)
+ - TDD and BDD in Ruby
 
 ### Personal Recommendations
 
