@@ -7,12 +7,13 @@
 __DoD TS Clearance__
 
 US Air Force [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
-  
- - Compilation and Evaluation of Source Code from numerous vendors
- - Execution of Static Code Analysis scans with HP Fortify
- - Evaluation, Assessment and Detailed Security Reporting
 
-Backup role as a member of the JMPS Developer Training group delivering classes in JMPS Development on a regular schedule
+ - Next Generation Mission Planning Developer Training
+ - Working as part of a small team (using SAFe - Agile methodology)
+ - Create curricula including hands-on labs
+ - Deliver (remote during COVID-19 restrictions) Training classes for Air Force contracted software developers
+
+Secondary role as the **E**nterprise **S**ecure **C**ode **C**ustodian (managing Code Signing and Security duties)
 
 ##### [David C. Cook](https://www.DavidCCook.com/global) "...equipping the local church on a global scale."......2017
 
@@ -33,7 +34,7 @@ In addition to being the sole maintainer of the current Rails application, Thom 
 ###### [JMPS](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) Software Developer Training
 
 US Air Force [Joint Mission Planning System](http://www.prnewswire.com/news-releases/saic-awarded-air-force-mission-planning-system-engineering-and-integration-contract-54307102.html) (US Air Force Contract)
-  
+
 - Managing the instructional design process
 - Creating instructor materials, course outlines, and developer training labs
 - Preparing student materials, including course manuals, workbooks, handouts, completion certificates, and course critique forms
@@ -67,7 +68,7 @@ The success of the program led to the creation of series of curricula for Foreig
   * Design and Build ALL training materials to include Slide-Presentations, Handouts supporting documentation (physical and electronic)
   * Develop and construct “hands-on” labs (C# in .NET)
   * Deliver JMPS Developer Training to FMS clients and US clients as needed
- 
+
 ##### [APPLIED VOICE AND SPEECH TECHNOLOGY, INC.](http://www.avst.com/) .........................2005
 ###### Technical Trainer CallXpress Product (as a Subcontractor)
 
@@ -78,7 +79,7 @@ This required:
   * Set-up of Portable Classroom with 15 laptop computers, Cisco Call Manager, 16 IP Telephones
   * Five days of instruction, offering students ‘hands-on’ experience
   * A mixture of Projected Presentation and direct configuration and programming assistance
-  
+
 ##### [SAIC](http://www.saic.com/).....................................................................................................2003
 ###### IT & Systems Specialist
 
@@ -116,4 +117,3 @@ Located in Northern Virginia, my client-base included many US Government offices
 ###### Lead Service Technician
 
 Immediately following The Great Divestiture of the Bell System, I was the primary resource for "on the street" service and repair of PBX and Key telephone systems for a wide range of customers in the Northeast Philadelphia region.
-
